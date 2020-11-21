@@ -5,5 +5,5 @@ go 1.13
 require (
 	github.com/codemodus/kace v0.5.1 // indirect
 	github.com/nathan-osman/go-sunrise v0.0.0-20171121204956-7c449e7c690b // indirect
-	golang.org/x/tools v0.0.0-20201013201025-64a9e34f3752 // indirect
+	golang.org/x/tools v0.0.0-20201121010211-780cb80bd7fb // indirect
 )
